@@ -1,6 +1,6 @@
 # PSET 1
 ---
-### Neste PSET trabalhamos com quatro grandes objetivos
+### Neste Pset trabalhamos com quatro grandes objetivos
 1. Sistemas de controles de versões, em especial o Git e o serviço web GitHub e, ainda, aprender sobre Markdown;
 2. Aprender a implementar projetos lógicos em diversos Sistemas de Gerenciamento de Bancos de Dados (SGBD), 
 <br> utilizando os quatro SGBD relacionais mais comuns e importantes hoje em dia (PostgreSQL,Oracle, MariaBD/MySQL e MS SQL Server);
