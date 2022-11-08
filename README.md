@@ -1,3 +1,1 @@
-# uvv_bd_1_cc1m
-
-# PSET 1
+# PSETs Design e Desenvolvimento de Banco de Dados
