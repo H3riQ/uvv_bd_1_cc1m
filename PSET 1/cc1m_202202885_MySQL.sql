@@ -1,6 +1,6 @@
 /* Logando com o usuário administrador */
 mysql -u root -p
-computacao@raiz
+/* senha computacao@raiz /*
 
 /* Criando o usuário henrique */
 CREATE USER henrique IDENTIFIED BY '202202885';
@@ -16,7 +16,7 @@ EXIT
 
 /* Logando com o usuário henrique */
 mysql -u henrique -p
-202202885
+/* senha 202202885 /*
 
 /* Selecionando a Database */
 USE uvv;
