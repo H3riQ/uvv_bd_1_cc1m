@@ -1,6 +1,6 @@
 /* Logando como administrador */
 psql -U postgres
-computacao@raiz
+/* senha computacao@raiz */
 
 /* Criando Usuário */
 create role henrique with superuser createdb createrole inherit login replication bypassrls encrypted password '202202885';
@@ -18,7 +18,7 @@ allow_connections = true
 
 /* Logando na Database com o Usuário henrique */
 \c uvv henrique;
-202202885
+/* senha 202202885 */
 
 /* Criando SCHEMA hr */
 CREATE SCHEMA hr AUTHORIZATION henrique;
